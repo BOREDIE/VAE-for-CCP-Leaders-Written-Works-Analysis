@@ -4,6 +4,8 @@
 
 *Boxuan Yu*
 
+> **Note (2026-08-28):** This β-VAE approach has been superseded. See [CCP-Ideal-Point-Estimation](https://github.com/BOREDIE/CCP-Ideal-Point-Estimation) for the current Wordfish/Wordscores-based analysis and the reasoning behind the change. This repository is left unchanged as the exact replication record for the original course paper.
+
 ---
 
 ## Overview
